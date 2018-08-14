@@ -33,6 +33,7 @@ body {
     background-size: 100px 100px;
     background-position: 0 0;
     animation: move-cd 2s linear infinite;
+    overflow: auto;
 }
 
 @keyframes move-cd { 
